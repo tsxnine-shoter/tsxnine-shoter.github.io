@@ -1,0 +1,26 @@
+{
+  "nick": "TSXNINE SHOTER",
+  "tagline": "Klipy ze streamów tsxnine",
+  "description": "Najlepsze momenty, śmieszne sytuacje i wszystko, co wpadnie w kadr na streamach tsxnine. Nowe klipy ładują się tu automatycznie.",
+  "avatar": "tsx.png",
+  "discordTag": "",
+  "links": {
+    "tiktok": "https://www.tiktok.com/@tsxnine_shoter",
+    "youtube": "",
+    "instagram": "",
+    "discord": "",
+    "website": "https://tsxnine.pl",
+    "creator": "https://kl0xzewiakk.netlify.app/"
+  },
+  "sources": {
+    "youtubeHandle": "",
+    "youtubeChannelId": "",
+    "tiktokUser": "tsxnine_shoter",
+    "tiktokRssUrl": "",
+    "instagramEnabled": false
+  },
+  "statsOverride": {
+    "followers": null,
+    "likes": null
+  }
+}
